@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
 <body>
-  <div id="app">Cargando el curso...</div>
+  <div id="app">جارٍ تحميل الدورة...</div>
   <script>
     window.$docsify = {
       name: 'Curso en árabe para nivel A1-A2 para estudiantes hispanohablantes',
@@ -23,9 +23,9 @@
       // Configuración del buscador integrado
       search: {
         maxAge: 86400000,
-        paths: 'auto',
-        placeholder: 'Buscar en el curso...',
-        noData: '¡No se encontraron resultados!',
+        paths: 'سيارة',
+        placeholder: 'البحث في الدورة...',
+        noData: 'لم يتم العثور على نتائج!',
         depth: 6
       }
     }
