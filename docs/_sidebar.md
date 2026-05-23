@@ -6,5 +6,5 @@
 
 
 * **Módulo 2: Introducción**
-* [Índice temario 2](02-comida-bebida-restaurante-A2/documento_resumen_01.md)
+* [Índice temario 2](02-comida-bebida-restaurante-A2/documento_resumen_02.md)
 * [Temario 1: Información personal y números](02-comida-bebida-restaurante-A2/tema2.md)
