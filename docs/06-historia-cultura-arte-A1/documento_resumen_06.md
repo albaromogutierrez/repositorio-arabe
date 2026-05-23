@@ -42,4 +42,8 @@ A1
 ## 💡Cómo usarlo
 Es un recurso está diseñado para una exploración progresiva del árabe. Las imágenes, ejemplos y elementos visuales favorecen la comprensión cultural y el aprendizaje.
 
-[Enlace al ejercicio](https://github.com/albaromogutierrez/repositorio-arabe/docs/06-historia-cultura-arte-A1/mundo-arabe-scorm/index.html ':target=_blank')
+[Enlace al ejercicio](https://github.com/albaromogutierrez/repositorio-arabe/blob/main/docs/06-historia-cultura-arte-A1/mundo-arabe-scorm/index.html)
+
+También puedes usar el enlace de GitHub Pages:
+
+[Enlace en GitHub Pages](https://albaromogutierrez.github.io/repositorio-arabe/06-historia-cultura-arte-A1/mundo-arabe-scorm/)
