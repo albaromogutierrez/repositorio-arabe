@@ -221,58 +221,72 @@ Rellena los espacios con la palabra o frase correcta del recuadro.
 Opciones:
 السلام عليكم – أريد – من فضلك – كم السعر؟ – سأأخذ
 
-Cliente: __________ ، هل يمكنني الحصول على القائمة؟
-Camarero: تفضل القائمة.
-Cliente: __________ طلب شاورما.
-Cliente: شاي بالنعناع، __________.
-Camarero: هل تريد شيئًا آخر؟
-Cliente: نعم، __________ الخبز أيضًا.
-Cliente: __________
-Camarero: المجموع خمسة عشر ريالاً.
+- Cliente: __________ ، هل يمكنني الحصول على القائمة؟
+- Camarero: تفضل القائمة.
+- Cliente: __________ طلب شاورما.
+- Cliente: شاي بالنعناع، __________.
+- Camarero: هل تريد شيئًا آخر؟
+- Cliente: نعم، __________ الخبز أيضًا.
+- Cliente: __________
+- Camarero: المجموع خمسة عشر ريالاً.
 
 2.Traduce
 
-1.Quiero pedir falafel.
-2.¿Este plato contiene carne?
-3.¿Cuánto cuesta?
-4.Tomaré té con menta.
-5.Buen provecho.
+- Quiero pedir falafel.
+- ¿Este plato contiene carne?
+- ¿Cuánto cuesta?
+- Tomaré té con menta.
+- Buen provecho.
 
 3.Elige la opción correcta
 
 Selecciona la palabra correcta para completar cada frase.
 
 __________ هو خبز عربي مشهور.
-a) شاي
-b) خبز
-c) سمك
+-  شاي
+-  خبز
+-  سمك
+
+
 أريد __________ من فضلك.
-a) طلب
-b) شوكة
-c) سؤال
+-  طلب
+- شوكة
+-  سؤال
+  
+
 هل هذا الطبق __________ ؟
-a) كبير
-b) حار
-c) بارد
+- كبير
+-  حار
+-  بارد
+
+
 __________ يعني “buen provecho”.
-a) يعطيك العافية
-b) بالهنا والشفا
-c) لو سمحت
+-  يعطيك العافية
+-  بالهنا والشفا
+-  لو سمحت
+
+
 القهوة العربية تسمى __________.
-a) قهوة
-b) شوربة
-c) مائدة
+-  قهوة
+-  شوربة
+-  مائدة
+  
+
 الفلافل مصنوع من __________.
-a) الأرز
-b) السمك
-c) الحمص
+-  الأرز
+-  السمك
+-  الحمص
+  
+
 __________ هو مشروب بالليمون والنعناع.
-a) ليمونانا
-b) جلاب
-c) سحلب
+-  ليمونانا
+-  جلاب
+-  سحلب
+
+
 في المطعم نجلس على __________.
-a) مائدة
-b) سكين
+-  مائدة
+-  سكين
 
 ### Bibliografía
 > ---. “Profesor De Lengua AI - Talkpal.” Talkpal, 9 Feb. 2026, talkpal.ai/es.
