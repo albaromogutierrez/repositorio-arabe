@@ -42,4 +42,4 @@ A1
 Es un aprendizaje modular y se recomienda usar en un uso de estudio primitivo para la adaptación de nombres, seguido de las nacionaliddades y profesiones para terminar con una base de vocabulario básico para poder aplicarlo a estructuras gramaticales para la construcción de oraciones completas.
 
 
-* [Enlace al temario](./tema1.md)
+[Enlace al temario](./tema1.md)
