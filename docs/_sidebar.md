@@ -28,7 +28,7 @@
 
 
 * **Módulo 9: Introducción**
-* [Índice temario 9](09-bases-comunicacion-A1/documento_resumen_9.md)
+* [Índice temario 9](09-bases-comunicacion-A1/documento_resumen_09.md)
 
 
 * **Módulo 10: Introducción**
