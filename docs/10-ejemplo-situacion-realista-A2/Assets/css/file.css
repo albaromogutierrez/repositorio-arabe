@@ -1,0 +1,104 @@
+#backdrop { 
+  /* Un degradado más cálido y vibrante que evoca el desierto y el atardecer */
+  background: linear-gradient(135deg, #e2725b, #e8a87c, #c38d9e);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#page { 
+  background-color: rgba(255, 255, 255, 0.94);  
+  border-radius: 18px;
+  /* Borde en tono arena cálida */
+  border: 2px solid #d4a373; 
+  box-shadow: 0 20px 50px rgba(0,0,0,0.2);
+  max-width: 800px;
+}
+
+#page article { 
+  padding: 2.5em;
+  line-height: 1.7;
+  font-size: 1.08em;
+  color: #2b2d42;
+}
+
+#page a {
+  display: inline-block;
+  /* Color azul inspirados en las ciudades costeras o Chefchaouen */
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+  background: #0077b6; 
+  padding: 10px 18px;
+  border-radius: 12px;
+  margin: 6px 0;
+  border: none;
+  transition: all 0.25s ease;
+}
+
+#page a:hover {
+  color: #fff;
+  background: #023e8a;
+  transform: translateX(6px) scale(1.03);
+}
+
+#page header {
+  border-bottom: 2px solid #faedcd;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 0.75em;
+  color: #bc6c25;
+  margin-bottom: 12px;
+}
+
+#page footer {
+  border-top: 2px solid #faedcd;
+  font-size: 0.75em;
+  color: #bc6c25;
+  margin-top: 12px;
+  text-align: center;
+}
+
+hr {
+  border: none;
+  border-top: 2px dashed #d4a373;
+  margin: 25px 0;
+}
+
+blockquote {
+  background: #fefae0;
+  border-left: 6px solid #dda15e;
+  padding: 12px 16px;
+  border-radius: 10px;
+  font-style: italic;
+}
+
+[align="center"] {
+  display: block;
+  background: #fdf0d5;
+  border: 2px dashed #c1121f; /* Un toque de rojo marroquí */
+  padding: 12px;
+  margin: 20px auto;
+  width: fit-content;
+  border-radius: 10px;
+  font-weight: bold;
+  color: #780000;
+}
+
+strong {
+  color: #ae2012; /* Color arcilla/tierra intenso */
+}
+
+#page article p {
+  text-shadow: 0 1px 1px rgba(0,0,0,0.02);
+}
+
+#page {
+  animation: fadeIn 0.6s ease-in;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
