@@ -63,3 +63,5 @@ A1-A2
 ## 💡 Cómo usarlo
 
 Este material ha sido elaborado como una evolución narrativa interactiva que abarca desde el nivel A1 hasta el A2. Las diferentes escenas se encuentran vinculadas entre sí para facilitar un aprendizaje contextualizado, brindando al estudiante la oportunidad de adquirir conocimientos de árabe mientras disfruta de una experiencia de viaje auténtica en Marrakech.
+
+[Enlace al ejercicio](https://albaromogutierrez.github.io/repositorio-arabe/10-ejemplo-situacion-realista-A2/una-semana-en-Marrakech/)
