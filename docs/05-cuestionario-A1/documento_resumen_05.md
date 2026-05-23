@@ -48,4 +48,4 @@ Este módulo incluye 10 actividades interactivas sobre diferentes aspectos del �
 9. **Hospitalidad árabe: El Pan** - Cultura y tradiciones
 10. **Roles en la Familia árabe** - Vocabulario familiar y contexto cultural
 
-[Acceder a las actividades interactivas](https://albaromogutierrez.github.io/repositorio-arabe/05-cuestionario-A1/export-2026-03-08_17-05-901/) 
+[Acceder a las actividades interactivas](https://albaromogutierrez.github.io/repositorio-arabe/05-cuestionario-A1/preguntas-cuestionario/) 
