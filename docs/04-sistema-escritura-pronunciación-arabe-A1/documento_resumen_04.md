@@ -42,3 +42,6 @@ A1-A2
 
 ## 💡Cómo usarlo
 Es un recurso que va desde un nivel más simple de A1 a uno más avanzado de A2. Se recomienda para empezar por el sistema de escriturra y números antes de avanzar hacia estructuras gramaticales y situaciones prácticas. Las imágenes y ejemplos favorecen el refuerzo del aprendizaje contextual y la comprensión básica. 
+
+
+[Enlace al ejercicio](https://github.com/albaromogutierrez/repositorio-arabe/04-sistema-escritura-pronunciación-arabe-A1/situaciones-practicas/index.html ':target=_blank')

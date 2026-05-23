@@ -351,4 +351,3 @@ En español, el verbo «ser» actúa como un verbo que conecta el sujeto con una
 Talkpal, Inc. “Gramática Árabe - Talkpal.” Talkpal, 21 May 2025, talkpal.ai/es/gramatica-arabe.
 
 
-[Enlace al ejercicio](https://github.com/albaromogutierrez/repositorio-arabe/04-sistema-escritura-pronunciación-arabe-A1/situaciones-practicas/index.html ':target=_blank')
