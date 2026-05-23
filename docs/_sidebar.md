@@ -18,11 +18,3 @@
 * **Módulo 4: Introducción**
 * [Índice temario 4](04-sistema-escritura-pronunciación-arabe-A1/documento_resumen_04.md)
 
-
-* **Módulo 4: Introducción**
-* [Índice temario 4](04-sistema-escritura-pronunciación-arabe-A1/documento_resumen_04.md)
-
-
-
-* **Módulo 4: Introducción**
-* [Índice temario 6](06-historia-cultura-arte-A1/documento_resumen_06.md)
