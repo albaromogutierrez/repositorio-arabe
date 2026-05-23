@@ -27,6 +27,10 @@
 * [Índice temario 7](07-scape-room-twine-A2/documento_resumen_07.md)
 
 
+* **Módulo 10: Introducción**
+* [Índice temario 8](08-historia-renpy-A2/documento_resumen_08.md)
+
+
 * **Módulo 9: Introducción**
 * [Índice temario 9](09-bases-comunicacion-A1/documento_resumen_09.md)
 
