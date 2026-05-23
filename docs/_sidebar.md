@@ -18,7 +18,7 @@
 * [Índice temario 4](04-sistema-escritura-pronunciación-arabe-A1/documento_resumen_04.md)
 
 
-* **Módulo 4: Introducción**
+* **Módulo 5: Introducción**
 * [Índice temario 5](05-cuestionario-A1/documento_resumen_05.md)
 
 
