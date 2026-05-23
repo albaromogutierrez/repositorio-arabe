@@ -41,3 +41,7 @@ A2
 
 ## 💡Cómo usarlo
 Está diseñado para una lectura progresiva y se recomienda empezar por el vocabulario básico, seguir por las situaciones comunicativas y los textos contextualizados. Por último, el estudiante tiene que reforzar el aprendizaje con un ejercicio de comprensión y práctica de verbos y expresiones cotidianas. 
+
+## Ejercicio
+
+[Enlace al ejercicio](https://github.com/albaromogutierrez/repositorio-arabe/03-vida-cotidiana-rutinas-A2/vida-rutinas/dist/milibro.epub ':target=_blank')
