@@ -150,7 +150,8 @@ Encontrarás las palabras en árabe para diversas dietas y restricciones aliment
 En la mayoría de las naciones árabes, el islam es la fe principal y establece normas rígidas sobre los alimentos que se pueden consumir (halal) y aquellos que están prohibidos (haram). Estas directrices influyen en la selección de comestibles así como en el proceso de sacrificio y preparación de los mismos.
 1. ***Alimentos halal:*** Carnes de animales que han sido sacrificados de acuerdo a rituales específicos, junto con frutas, verduras y granos que son aceptables.
 2. ***Alimentos haram:*** Carne de cerdo, bebidas alcohólicas y cualquier alimento que esté contaminado con cosas prohibidas.
-2. ***Ayuno durante el Ramadán:*** Un aspecto importante que afecta los horarios y tipos de comidas.
+3. ***Ayuno durante el Ramadán:*** Un aspecto importante que afecta los horarios y tipos de comidas.
+   
 
 ![alimentación](img/imagen-06.jpg)
 
@@ -182,16 +183,18 @@ Aprenderás expresiones básicas para saludar, hacer pedidos de comida, pregunta
 
 Este apartado compila frases útiles para interactuar con el camarero, abarcando desde la solicitud del menú hasta el pedido de platos y bebidas, de manera cortés y precisa.
 
+---
+
 | Categoría | Árabe | Transliteración | Significado |
-|-----------|------|-----------------|-------------|
-| Saludar y llamar al camarero | السلام عليكم | As-salāmu ʿalaykum | “Que la paz esté contigo”, saludo formal muy usado en el mundo árabe. |
-| Saludar y llamar al camarero | لو سمحت | Lau samaḥt | “Por favor”, forma educada de llamar la atención del camarero. |
-| Saludar y llamar al camarero | من فضلك | Min faḍlik | También significa “por favor”, usado al pedir algo. |
-| Saludar y llamar al camarero | هل يمكنني الحصول على القائمة؟ | Hal yumkinunī al-ḥuṣūl ʿalā al-qāʾima? | “¿Me podrías dar el menú?” |
-| Expresar deseos y hacer pedidos | أريد | Urīd | “Deseo” o “quiero”, usado para expresar lo que se quiere pedir. |
-| Expresar deseos y hacer pedidos | هل يمكنني طلب …؟ | Hal yumkinunī ṭalab …? | “¿Puedo pedir …?” |
-| Expresar deseos y hacer pedidos | سأأخذ | Saʾakhudh | “Tomaré” o “me llevaré esto”. |
-| Expresar deseos y hacer pedidos | هل هذا الطبق حار؟ | Hal hādhā aṭ-ṭabaq ḥār? | “¿Este plato pica?” |
+| :--- | :---: | :--- | :--- |
+| **Saludar y llamar al camarero** | السلام عليكم | *As-salāmu ʿalaykum* | “Que la paz esté contigo”, saludo formal muy usado en el mundo árabe. |
+| **Saludar y llamar al camarero** | لو سمحت | *Lau samaḥt* | “Por favor”, forma educada de llamar la atención del camarero. |
+| **Saludar y llamar al camarero** | من فضلك | *Min faḍlik* | También significa “por favor”, usado al pedir algo. |
+| **Saludar y llamar al camarero** | هل يمكنني الحصول على القائمة؟ | *Hal yumkinunī al-ḥuṣūl ʿalā al-qāʾima?* | “¿Me podrías dar el menú?” |
+| **Expresar deseos y hacer pedidos** | أريد | *Urīd* | “Deseo” o “quiero”, usado para expresar lo que se quiere pedir. |
+| **Expresar deseos y hacer pedidos** | هل يمكنني طلب …؟ | *Hal yumkinunī ṭalab …?* | “¿Puedo pedir …?” |
+| **Expresar deseos y hacer pedidos** | سأأخذ | *Saʾakhudh* | “Tomaré” o “me llevaré esto”. |
+| **Expresar deseos y hacer pedidos** | هل هذا الطبق حار؟ | *Hal hādhā aṭ-ṭabaq ḥār?* | “¿Este plato pica?” |
 
 ![frases](img/imagen-07.jpg)
 ---
