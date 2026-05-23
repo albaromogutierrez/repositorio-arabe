@@ -49,6 +49,6 @@ Este módulo incluye 10 actividades interactivas sobre diferentes aspectos del �
 10. **Roles en la Familia árabe** - Vocabulario familiar y contexto cultural
 
 
-[Ver el cuaderno completo de PREGUNTAS (PDF)](https://github.com/albaromogutierrez/repositorio-arabe/tree/main/docs/05-cuestionario-A1/preguntas-cuestionario/preguntas.pdf)
+[Ver el cuaderno completo de PREGUNTAS (PDF)](https://github.com/albaromogutierrez/repositorio-arabe/tree/main/docs/05-cuestionario-A1/preguntas-cuestionario/preguntas.html)
  
 [Ver el cuaderno completo de RESPUESTAS (PDF)](https://github.com/albaromogutierrez/repositorio-arabe/tree/main/docs/05-cuestionario-A1/respuestas-cuestionario/respuestas.pdf)
