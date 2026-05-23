@@ -50,4 +50,4 @@ Este m√≥dulo incluye 10 actividades interactivas sobre diferentes aspectos del √
 
 [Ver el cuaderno completo de PREGUNTAS](https://albaromogutierrez.github.io/repositorio-arabe/05-cuestionario-A1/preguntas-cuestionario/preguntas.html)
  
-[Ver el cuaderno completo de RESPUESTAS (PDF)](https://github.com/albaromogutierrez/repositorio-arabe/05-cuestionario-A1/respuestas-cuestionario/respuestas.html)
+[Ver el cuaderno completo de RESPUESTAS (PDF)](https://albaromogutierrez.github.io/repositorio-arabe/05-cuestionario-A1/respuestas-cuestionario/respuestas.html)
