@@ -35,3 +35,5 @@ A1
 
 ## 💡Cómo usarlo
 Está diseñado para practicar las presentaciones personales, estudiar las preguntas y estructuras negativas, memorizar el vocabulario relacionado con la casa y el clima, observar ejemplos de gestos y lenguaje corporal y familiarizarse con el sistema de raíces trilíteras para ampliar vocabulario. 
+
+[Enlace al ejercicio](https://albaromogutierrez.github.io/repositorio-arabe/09-bases-comunicacion-A1/bases-comunicacion/)
