@@ -48,3 +48,8 @@ Puedes descargar el libro en formato EPUB desde este enlace:
 
 [Enlace al epub](/03-vida-cotidiana-rutinas-A2/vida-rutinas/dist/milibro.epub)
 
+<!-- Enlace externo al ejercicio: ajusta la URL si hace falta -->
+<p>
+<a href="https://albaromogutierrez.github.io/repositorio-arabe/02-comida-bebida-restaurante-A2/ejercicio-restaurante/index.html" target="_blank" rel="noopener">Enlace al ejercicio</a>
+</p>
+
