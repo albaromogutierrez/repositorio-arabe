@@ -12,6 +12,5 @@
 
 * **Módulo 3: Introducción**
 * [Índice temario 3](03-vida-cotidiana-rutinas-A2/documento_resumen_03.md)
-* [Índice temario 3 (alternativo)](/03-vida-cotidiana-rutinas-A2/documento_resumen_03.md)
-* [Temario 3: Vida cotidiana y rutinas](03-vida-cotidiana-rutinas-A2/vida-rutinas/src/00-actividades-diarias.md)
+
 
