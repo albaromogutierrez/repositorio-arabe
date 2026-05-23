@@ -38,21 +38,28 @@ Se muestran las bebidas heladas y refrescantes, perfectas para complementar las 
 ![fría](img/imagen-03.jpg)
 ***
 ## Jergas y expresiones 
+## Jergas y expresiones
+
 Estudiaremos frases y términos que se usan para hablar sobre alimentos, gustos y la experiencia de comer, ya sea por amabilidad o entusiasmo.
-| Categoría | Árabe | Transliteración | Definición |
-|-----------|------|-----------------|------------|
-| Expresiones para describir sabores y comidas | طعم الدنيا | Ta‘m ad-dunya | Literalmente «el sabor del mundo»; se utiliza para hablar de una comida muy sabrosa o que produce gran placer al comerla. |
-| Expresiones para describir sabores y comidas | يا سلام | Ya salam | Expresión de sorpresa o entusiasmo, parecida a decir «¡qué rico!» o «¡delicioso!». |
-| Expresiones para describir sabores y comidas | مليان | Malyan | Significa «lleno», pero en lenguaje coloquial puede referirse a un plato muy abundante o que deja satisfecho. |
-| Expresiones para describir sabores y comidas | فلة | Falla | En algunos dialectos indica que la comida está excelente o resulta perfecta. |
-| Jerga para platos y alimentos comunes | كبة | Kibbeh | Plato tradicional preparado con carne y trigo, muy conocido en la región del Levante. |
-| Jerga para platos y alimentos comunes | مندي | Mandi | Plato de arroz acompañado de carne típico de la Península Arábiga, sobre todo en Yemen y Arabia Saudita. |
-| Jerga para platos y alimentos comunes | فلافل | Falafel | Bolitas fritas hechas con garbanzos o habas, muy populares en todo el mundo árabe. |
-| Jerga para platos y alimentos comunes | مشاوي | Mashawi | Hace referencia a carnes asadas o preparadas a la parrilla, término frecuente en barbacoas. |
-| Expresiones relacionadas con comer y beber | بالهنا والشفا | Bil hana wal shifa | Frase de cortesía que se dice cuando alguien está comiendo, equivalente a «buen provecho». |
-| Expresiones relacionadas con comer y beber | على راحتك | Ala rahatuk | Literalmente «a tu gusto», se usa para indicar que alguien puede comer o beber con tranquilidad. |
-| Expresiones relacionadas con comer y beber | يعطيك العافية | Ya‘tik al-‘afiya | Expresión usada para agradecer o reconocer el esfuerzo de quien ha preparado la comida. |
+
 ---
+
+| Categoría | Árabe | Transliteración | Definición |
+| :--- | :---: | :--- | :--- |
+| **Expresiones para describir sabores y comidas** | طعم الدنيا | *Ta‘m ad-dunya* | Literalmente «el sabor del mundo»; se utiliza para hablar de una comida muy sabrosa o que produce gran placer al comerla. |
+| **Expresiones para describir sabores y comidas** | يا سلام | *Ya salam* | Expresión de sorpresa o entusiasmo, parecida a decir «¡qué rico!» o «¡delicioso!». |
+| **Expresiones para describir sabores y comidas** | مليان | *Malyan* | Significa «lleno», pero en lenguaje coloquial puede referirse a un plato muy abundante o que deja satisfecho. |
+| **Expresiones para describir sabores y comidas** | فلة | *Falla* | En algunos dialectos indica que la comida está excelente o resulta perfecta. |
+| **Jerga para platos y alimentos comunes** | كبة | *Kibbeh* | Plato tradicional preparado con carne y trigo, muy conocido en la región del Levante. |
+| **Jerga para platos y alimentos comunes** | مندي | *Mandi* | Plato de arroz acompañado de carne típico de la Península Arábiga, sobre todo en Yemen y Arabia Saudita. |
+| **Jerga para platos y alimentos comunes** | فلافل | *Falafel* | Bolitas fritas hechas con garbanzos o habas, muy populares en todo el mundo árabe. |
+| **Jerga para platos y alimentos comunes** | مشاوي | *Mashawi* | Hace referencia a carnes asadas o preparadas a la parrilla, término frecuente en barbacoas. |
+| **Expresiones relacionadas con comer y beber** | بالهنا والشفا | *Bil hana wal shifa* | Frase de cortesía que se dice cuando alguien está comiendo, equivalente a «buen provecho». |
+| **Expresiones relacionadas con comer y beber** | على راحتك | *Ala rahatuk* | Literalmente «a tu gusto», se usa para indicar que alguien puede comer o beber con tranquilidad. |
+| **Expresiones relacionadas con comer y beber** | يعطيك العافية | *Ya‘tik al-‘afiya* | Expresión usada para agradecer o reconocer el esfuerzo de quien ha preparado la comida. |
+---
+
+
 ## Diferencias entre los dialectos
 Esta sección describe cómo cambian los términos y las denominaciones de los alimentos en las diferentes áreas árabes, abarcando el Levante, el Magreb y la Península Arábiga.
 ### Jerga de Alimentos en el Levante
@@ -144,6 +151,7 @@ En la mayoría de las naciones árabes, el islam es la fe principal y establece 
 1. ***Alimentos halal:*** Carnes de animales que han sido sacrificados de acuerdo a rituales específicos, junto con frutas, verduras y granos que son aceptables.
 2. ***Alimentos haram:*** Carne de cerdo, bebidas alcohólicas y cualquier alimento que esté contaminado con cosas prohibidas.
 2. ***Ayuno durante el Ramadán:*** Un aspecto importante que afecta los horarios y tipos de comidas.
+
 ![alimentación](img/imagen-06.jpg)
 
 ***
@@ -171,7 +179,9 @@ Aprenderás expresiones básicas para saludar, hacer pedidos de comida, pregunta
 أريد الدفع، من فضلك. (Urīd ad-daf‘, min faḍlik.) – Quisiera pagar, por favor.
 ---
 ## Frases para pedir comida en un restaurante
+
 Este apartado compila frases útiles para interactuar con el camarero, abarcando desde la solicitud del menú hasta el pedido de platos y bebidas, de manera cortés y precisa.
+
 | Categoría | Árabe | Transliteración | Significado |
 |-----------|------|-----------------|-------------|
 | Saludar y llamar al camarero | السلام عليكم | As-salāmu ʿalaykum | “Que la paz esté contigo”, saludo formal muy usado en el mundo árabe. |
@@ -182,6 +192,7 @@ Este apartado compila frases útiles para interactuar con el camarero, abarcando
 | Expresar deseos y hacer pedidos | هل يمكنني طلب …؟ | Hal yumkinunī ṭalab …? | “¿Puedo pedir …?” |
 | Expresar deseos y hacer pedidos | سأأخذ | Saʾakhudh | “Tomaré” o “me llevaré esto”. |
 | Expresar deseos y hacer pedidos | هل هذا الطبق حار؟ | Hal hādhā aṭ-ṭabaq ḥār? | “¿Este plato pica?” |
+
 ![frases](img/imagen-07.jpg)
 ---
 ## Ejemplo de diálogo en un restaurante 💬
