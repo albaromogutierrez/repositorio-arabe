@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Visor EPUB — Vida y rutinas</title>
+  <style>
+    html,body{height:100%;margin:0;font-family:system-ui,Arial}
+    #viewer{height:100vh}
+    .fallback{padding:1rem}
+    .toolbar{position:fixed;left:0;right:0;top:0;height:44px;background:#222;color:#fff;display:flex;align-items:center;padding:0 12px;z-index:10}
+    .toolbar a{color:#fff;margin-right:12px}
+    #viewer-container{padding-top:48px}
+  </style>
+</head>
+<body>
+  <div class="toolbar">
+    <a href="../documento_resumen_03.md">Volver</a>
+    <div>Visor EPUB — Vida y rutinas</div>
+  </div>
+
+  <div id="viewer-container">
+    <div id="viewer"></div>
+    <div class="fallback" id="fallback" style="display:none">
+      <p>No se pudo cargar el visor. Puedes descargar el EPUB <a id="dl" href="dist/milibro.epub">aquí</a>.</p>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/epubjs/dist/epub.min.js"></script>
+  <script>
+    (function(){
+      var epubPath = 'dist/milibro.epub';
+      var viewer = document.getElementById('viewer');
+      try {
+        var book = ePub(epubPath);
+        var rendition = book.renderTo('viewer', {width: '100%', height: '100%'});
+        rendition.themes.default({ '::selection': { 'background': 'rgba(255, 214, 10, 0.3)' } });
+        rendition.display();
+        // Basic keyboard navigation
+        document.addEventListener('keydown', function(e){
+          if(e.key === 'ArrowRight') rendition.next();
+          if(e.key === 'ArrowLeft') rendition.prev();
+        });
+        book.ready.catch(function(){
+          viewer.style.display = 'none';
+          document.getElementById('fallback').style.display = 'block';
+        });
+      } catch(err){
+        viewer.style.display = 'none';
+        document.getElementById('fallback').style.display = 'block';
+      }
+    })();
+  </script>
+</body>
+</html>

@@ -43,7 +43,6 @@ A2
 Está diseñado para una lectura progresiva y se recomienda empezar por el vocabulario básico, seguir por las situaciones comunicativas y los textos contextualizados. Por último, el estudiante tiene que reforzar el aprendizaje con un ejercicio de comprensión y práctica de verbos y expresiones cotidianas. 
 
 
-
-[Enlace al epub](https://albaromogutierrez.github.io/repositorio-arabe/03-vida-cotidiana-rutinas-A2/vida-rutinas/dist/milibro.epub)
+<a href="/03-vida-cotidiana-rutinas-A2/vida-rutinas/viewer.html" target="_blank" rel="noopener">Enlace al epub</a>
 
 
