@@ -1,0 +1,96 @@
+#backdrop { 
+  background: linear-gradient(135deg, #2c1b0f, #7a3e1d, #c97b30);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+#page { 
+  background-color: rgba(245, 232, 210, 0.95);  
+  border-radius: 18px;
+  border: 2px solid #c97b30; 
+  box-shadow: 0 20px 50px rgba(0,0,0,0.35);
+  max-width: 800px;
+}
+
+#page article { 
+  padding: 2.5em;
+  line-height: 1.7;
+  font-size: 1.08em;
+  color: #2b1a10;
+}
+
+#page a {
+  display: inline-block;
+  color: #2c1b0f;
+  font-weight: bold;
+  text-decoration: none;
+  background: #e6c79c; 
+  padding: 10px 18px;
+  border-radius: 12px;
+  margin: 6px 0;
+  border: 2px solid #7a3e1d;
+  transition: all 0.25s ease;
+}
+
+#page a:hover {
+  color: #fff;
+  background: #7a3e1d;
+  transform: translateX(6px) scale(1.03);
+}
+
+#page header {
+  border-bottom: 2px solid #c97b30;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 0.75em;
+  color: #7a3e1d;
+  margin-bottom: 12px;
+}
+
+#page footer {
+  border-top: 2px solid #c97b30;
+  font-size: 0.75em;
+  color: #7a3e1d;
+  margin-top: 12px;
+  text-align: center;
+}
+
+hr {
+  border: none;
+  border-top: 2px dashed #7a3e1d;
+  margin: 25px 0;
+}
+
+blockquote {
+  background: #f1d8b5;
+  border-left: 6px solid #c97b30;
+  padding: 12px 16px;
+  border-radius: 10px;
+  font-style: italic;
+}
+
+[align="center"] {
+  display: block;
+  background: #fff3e0;
+  border: 2px dashed #c97b30;
+  padding: 12px;
+  margin: 20px auto;
+  width: fit-content;
+  border-radius: 10px;
+  font-weight: bold;
+  color: #7a3e1d;
+}
+
+strong {
+  color: #a9441c;
+}
+
+#page article p {
+  text-shadow: 0 1px 1px rgba(0,0,0,0.05);
+}
+
+#page {
+  animation: fadeIn 0.6s ease-in;
+}
