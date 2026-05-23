@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p1 http://www.imsglobal.org/xsd/qti/qtiv2p1/imsqti_v2p1p1.xsd http://www.w3.org/1998/Math/MathML http://www.w3.org/Math/XMLSchema/mathml2/mathml2.xsd" identifier="id86535700-fac1-4d79-b280-64371993df67" title="Describir a una persona y su entorno" adaptive="false" timeDependent="false"><responseDeclaration identifier="RESPONSE" cardinality="single" baseType="string" /><outcomeDeclaration identifier="SCORE" cardinality="single" baseType="float"><defaultValue><value>0</value></defaultValue></outcomeDeclaration><outcomeDeclaration identifier="MAXSCORE" cardinality="single" baseType="float"><defaultValue><value>0</value></defaultValue></outcomeDeclaration><outcomeDeclaration identifier="MINSCORE" cardinality="single" baseType="float" view="testConstructor"><defaultValue><value>0</value></defaultValue></outcomeDeclaration><itemBody >
+		<p>Redacta un breve ensayo o composición en árabe que describa a una persona y su entorno. Sube tu respuesta en PDF o imagen de caligrafía.</p>
+		
+		
+		<h1>Guía de Calificación</h1><div>
+				<p><b>Max Score:</b> 5.0 puntos</p>
+				<p><b>Criterios:</b></p>
+				<ul>
+					<li>Identificación correcta de la persona y su nombre: 1 punto</li>
+					<li>Profesión y edad correctamente indicadas: 1 punto</li>
+					<li>Oración nominal de nacionalidad correcta: 1 punto</li>
+					<li>Oración verbal correcta: 1 punto</li>
+					<li>Uso adecuado de preposición y sintaxis para la ubicación del libro: 1 punto</li>
+					<li>Posibles deducciones por errores gramaticales o sintácticos: -0.1 por error</li>
+					<li>Bonificación por creatividad o caligrafía excepcional: +0.1 a +0.3</li>
+				</ul>
+			</div>
+	<div>
+Instrucciones: Presenta a un hombre llamado José. Indica que su profesión es Ingeniero y que tiene 25 años. Escribe una oración nominal indicando que él es de nacionalidad egipcia. Escribe una oración verbal donde el ingeniero realice la acción de escribir la lección. Añade una frase que indique que el libro está sobre la mesa.
+			</div><extendedTextInteraction responseIdentifier="RESPONSE" expectedLength="200" /></itemBody></assessmentItem>

@@ -31,4 +31,21 @@ A1
 
 
 ## 💡Cómo usarlo
-Está diseñado para realizarse de forma progresvia y dinámica. Se recomienda resolverlo siguiendo el orden propuesto. Las actividades permiten reforzar el aprendizaje mediante práctica interactiva y autoevaluación. 
+Está diseñado para realizarse de forma progresvia y dinámica. Se recomienda resolverlo siguiendo el orden propuesto. Las actividades permiten reforzar el aprendizaje mediante práctica interactiva y autoevaluación.
+
+## 📋Actividades interactivas
+
+Este módulo incluye 10 actividades interactivas sobre diferentes aspectos del árabe:
+
+1. **Alfabeto árabe** - Reconocimiento y pronunciación de letras
+2. **Desafío de Gastronomía y Cultura** - Vocabulario sobre comida y tradiciones
+3. **Describir a una persona y su entorno** - Adjetivos y descripción
+4. **Diacríticos del árabe** - Signos diacríticos y pronunciación
+5. **Diálogo en Restaurante árabe** - Conversación y situaciones prácticas
+6. **Gramática árabe** - Estructuras gramaticales básicas
+7. **Gramática árabe - Idaafa** - Construcción posesiva
+8. **Horas en árabe** - Expresión de tiempo
+9. **Hospitalidad árabe: El Pan** - Cultura y tradiciones
+10. **Roles en la Familia árabe** - Vocabulario familiar y contexto cultural
+
+[Acceder a las actividades interactivas](https://albaromogutierrez.github.io/repositorio-arabe/05-cuestionario-A1/export-2026-03-08_17-05-901/) 
