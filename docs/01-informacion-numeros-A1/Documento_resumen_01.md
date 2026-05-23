@@ -42,4 +42,4 @@ A1
 Es un aprendizaje modular y se recomienda usar en un uso de estudio primitivo para la adaptación de nombres, seguido de las nacionaliddades y profesiones para terminar con una base de vocabulario básico para poder aplicarlo a estructuras gramaticales para la construcción de oraciones completas.
 
 
-[Tema 1](docs/01-informacion-numeros-A1/informaci_n_personal_y_n_meros.md)
+[Tema 1](/01-informacion-numeros-A1/tema1)
