@@ -64,6 +64,7 @@ En árabe, las nacionalidades (الجنسية – al-jinsiyyah) suelen construir
 - Jordano: Urduni (أردني)
 - Tunecino: Tunisi (تونسي)
 - Palestino: Filastini (فلسطيني)
+
 ```sh
 من أين أنت؟<
 Min ayna anta? (a un hombre)
@@ -74,6 +75,7 @@ Min ayna anti? (a una mujer)
 Min ayy balad anta / anti?
 👉 ¿De qué país eres?>
 ```
+
 ### Preguntas sobre la nacionalidad
 - ¿Dónde vives? → ين تسكن؟
 - Vivo en… → أسكن في
