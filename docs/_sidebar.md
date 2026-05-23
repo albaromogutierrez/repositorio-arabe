@@ -22,3 +22,8 @@
 * **Módulo 6: Introducción**
 * [Índice temario 6](06-historia-cultura-arte-A1/documento_resumen_06.md)
 
+
+* **Módulo 7: Introducción**
+* [Índice temario 7](07-scape-room-twine-A2/documento_resumen_07.md)
+
+
