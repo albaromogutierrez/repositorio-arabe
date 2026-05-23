@@ -46,7 +46,7 @@ Está diseñado para una lectura progresiva y se recomienda empezar por el vocab
 
 Puedes descargar el libro en formato EPUB desde este enlace:
 
-[Enlace al epub](/03-vida-cotidiana-rutinas-A2/vida-rutinas/dist/milibro.epub)
+[Enlace al epub](https://albaromogutierrez.github.io/repositorio-arabe/03-vida-cotidiana-rutinas-A2/vida-rutinas/dist/milibro.epub)
 
 <!-- Enlace externo al ejercicio: ajusta la URL si hace falta -->
 <p>
