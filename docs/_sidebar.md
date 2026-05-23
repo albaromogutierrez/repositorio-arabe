@@ -12,4 +12,3 @@
 
 * **Módulo 3: Introducción**
 * [Índice temario 3](03-vida-cotidiana-rutinas-A2/documento_resumen_03.md)
-* [Temario 2: Comida y bebida en un restaurante](03-vida-cotidiana-rutinas-A2/tema2.md)
