@@ -11,4 +11,5 @@
 
 
 * **Módulo 3: Introducción**
-* [Índice temario 3](03-vida-cotidiana-rutinas-A2/documento_resumen_03.md)
+* [Índice temario 3 (alternativo)](/03-vida-cotidiana-rutinas-A2/documento_resumen_03.md)
+
