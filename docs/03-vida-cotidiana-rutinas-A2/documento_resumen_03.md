@@ -46,5 +46,5 @@ Está diseñado para una lectura progresiva y se recomienda empezar por el vocab
 
 Puedes descargar el libro en formato EPUB desde este enlace:
 
-[Descargar milibro.epub](03-vida-cotidiana-rutinas-A2/vida-rutinas/dist/milibro.epub)
+[Enlace al epub](/03-vida-cotidiana-rutinas-A2/vida-rutinas/dist/milibro.epub)
 
