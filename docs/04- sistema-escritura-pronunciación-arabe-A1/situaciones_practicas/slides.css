@@ -1,0 +1,31 @@
+/* Tamaño base de las diapositivas */
+.slides {
+  font-size: 0.60em;
+}
+
+/* Listas dentro de reveal.js */
+.reveal ul {
+  display: block;
+}
+
+.reveal ol {
+  display: block;
+}
+
+/* Imágenes */
+img {
+  max-height: 600px !important;
+}
+
+/* Subtítulos */
+.subtitle {
+  font-style: italic !important;
+}
+
+/* Fecha */
+.date {
+  font-size: 0.75em !important;
+}
+
+
+

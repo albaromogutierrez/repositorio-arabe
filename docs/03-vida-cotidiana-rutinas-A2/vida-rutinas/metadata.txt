@@ -1,0 +1,22 @@
+---
+title:
+- type: main
+  text: Vida cotidiana y rutinas
+- type: subtitle
+  text: Libro necesario para nivel A2
+
+creator:
+- role: author
+  text: Alba Romo Gutiérrez
+
+language: es
+publisher: Proyecto final
+rights: © 2026 Alba Romo
+
+identifier:
+- scheme: ebook
+  text: vida cotidiana árabe 
+
+ibooks:
+  version: 1.0
+...
