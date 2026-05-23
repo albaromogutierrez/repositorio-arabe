@@ -2,4 +2,4 @@
 
 * **Módulo 1: Introducción**
   
-* [Tema 1: Información personal y números del nivel A1](docs/01-informacion-numeros-A1/Documento_resumen_01)
+* [Tema 1: Información personal y números del nivel A1](docs/01-informacion-numeros-A1/Documento_resumen_01.md)
