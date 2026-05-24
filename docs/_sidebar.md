@@ -41,4 +41,6 @@
 * **Módulo 10: Introducción**
 * [Índice temario 10](10-ejemplo-situacion-realista-A2/documento_resumen_10.md)
 
+* **Módulo 11 Evaluación**
+* [Índice evaluación](11-evaluacion/evaluacion.md)
 
