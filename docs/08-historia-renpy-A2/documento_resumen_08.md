@@ -7,6 +7,9 @@ Este recurso se basa en un contenido interactivo y que tiene como objeto enseña
 ## 📊Nivel 
 A2
 
+## Tiempo estimado
+30 minutos
+
 ## 🎯Objetivos
 
 1.💡**Aprender** el vocabulario de todas las conversaciones
@@ -34,6 +37,9 @@ A2
 -Interacción familiar
 3.🌍 **Competencias interculturales**
 -Comprensión de normas no escritas
+
+## Licencia
+CC BY-NC-SA 4.0
 
 ## 💡Cómo usarlo
 Está diseñado para una lectura de los diálogos y observación de expresiones de cortesía, análisis de las normas sociales implícitas y comparación de comportamientos apropiados e inapropiados. 

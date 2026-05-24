@@ -7,6 +7,9 @@ Este recurso consiste en una guía completa diseñada para que el estudiante de 
 ## 📊Nivel 
 A2
 
+## Tiempo estimado
+40 minutos
+
 ## 🎯Objetivos
 
 1.💡**Aprender** el vocabulario de los platos y bebidas míticos del árabe.
@@ -37,3 +40,5 @@ utensilios de mesa
 ## 💡Cómo usarlo
 Está diseñado para una inmersión gradual. Se recomienda primero revisar la sección de platos y bebidas y después estudiar el vocabulario de utensilios y expresiones de cortesía. Se practica finalmente con un ejemplo y se realiza para consolidar lo aprendido.
 
+## Licencia
+CC BY-NC-SA 4.0

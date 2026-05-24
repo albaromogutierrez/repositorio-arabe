@@ -6,6 +6,9 @@ Este recurso consiste en una guía interactiva entre HTML y Markdown orientada a
 ## 📊Nivel 
 A1
 
+## Tiempo estimado
+30 minutos
+
 ## 🎯Objetivos
 
 1.💡**Aprender** elementos característicos de la cultura y el arte árabe.
@@ -38,6 +41,9 @@ A1
 -Celebraciones y festividades
 -Expresiones culturales y sociales
 -Valores y hospitalidad
+
+## Licencia
+CC BY-NC-SA 4.0
 
 ## 💡Cómo usarlo
 Es un recurso está diseñado para una exploración progresiva del árabe. Las imágenes, ejemplos y elementos visuales favorecen la comprensión cultural y el aprendizaje.

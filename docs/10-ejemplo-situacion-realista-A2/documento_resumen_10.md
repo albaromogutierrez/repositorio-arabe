@@ -15,6 +15,9 @@ A1-A2
 
 ---
 
+## Tiempo estimado
+30 minutos
+
 ## 🎯Objetivos
 
 1. 💡 **Aprender** vocabulario y expresiones básicas del árabe utilizadas en situaciones reales como viajes, compras, comida y alojamiento.  
@@ -59,6 +62,8 @@ A1-A2
 
 ---
 
+## Licencia
+CC BY-NC-SA 4.0
 
 ## 💡 Cómo usarlo
 

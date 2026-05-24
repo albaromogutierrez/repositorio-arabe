@@ -8,6 +8,9 @@ Este recurso consiste en una hisotoria sobre la búsqueda de un niño perdido en
 ## 📊Nivel 
 A2
 
+## Tiempo estimado
+30 minutos
+
 ## 🎯Objetivos
 
 1.💡**Aprender** vocabulario de lugares, direcciones y objetos.
@@ -29,6 +32,9 @@ A2
 2.📏**Gramática y estructuras**
 
 3.💬**Expresiones útiles**
+
+## Licencia 
+CC BY-NC-SA 4.0
 
 ## 💡Cómo usarlo
 Es un recurso está diseñado para seguir la historia de forma progresiva. Se recomienda leer cada parte para reforzar cada una de ellas.

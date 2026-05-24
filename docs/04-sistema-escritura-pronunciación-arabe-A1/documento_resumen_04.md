@@ -7,6 +7,9 @@ Este recurso consiste en una guía interactiva entre HTML y Markdown orientada a
 ## 📊Nivel 
 A1-A2
 
+## Tiempo estimado
+30 minutos
+
 ## 🎯Objetivos
 
 1.💡**Aprender** vocabulario y expresiones básicas usadas en situaciones comunicativas frecuentes.
@@ -39,6 +42,9 @@ A1-A2
 -Presentaciones personales
 -Situaciones comunicativas simples
 -Fórmulas básicas de interacción
+
+## Licencia
+CC BY-NC-SA 4.0
 
 ## 💡Cómo usarlo
 Es un recurso que va desde un nivel más simple de A1 a uno más avanzado de A2. Se recomienda para empezar por el sistema de escriturra y números antes de avanzar hacia estructuras gramaticales y situaciones prácticas. Las imágenes y ejemplos favorecen el refuerzo del aprendizaje contextual y la comprensión básica. 

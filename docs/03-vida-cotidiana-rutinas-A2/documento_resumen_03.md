@@ -7,6 +7,9 @@ Este recurso consiste en un libro electrónico (EPUB). El contenido se centra en
 ## 📊Nivel 
 A2
 
+## Tiempo estimado
+45 minutos
+
 ## 🎯Objetivos
 
 1.💡**Aprender** el vocabulario relacionado con la vida cotidiana, los horarios y las relaciones familiares.
@@ -38,6 +41,9 @@ A2
 -Hablar de rutinas
 -Expresar acciones
 -Describir horarios y actividades familiares
+
+## Licencia
+CC BY-NC-SA 4.0
 
 ## 💡Cómo usarlo
 Está diseñado para una lectura progresiva y se recomienda empezar por el vocabulario básico, seguir por las situaciones comunicativas y los textos contextualizados. Por último, el estudiante tiene que reforzar el aprendizaje con un ejercicio de comprensión y práctica de verbos y expresiones cotidianas. 

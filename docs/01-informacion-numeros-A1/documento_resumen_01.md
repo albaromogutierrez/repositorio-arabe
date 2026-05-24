@@ -7,6 +7,9 @@ Este recurso consiste en una guía de aprendizaje enfocada en la presentación p
 ## 📊Nivel 
 A1
 
+## Tiempo estimado 
+30-40 minutos
+
 ## 🎯Objetivos
 
 1.💡**Aprender** la adaptación de nombres españoles al árabe y su significado.
@@ -37,6 +40,9 @@ A1
 3.💬**Expresiones útiles**
 -Fórmulas para preguntar
 -Estructuras para indicar la fecha de nacimiento y la edad.
+
+## Licencia
+CC BY-NC-SA 4.0
 
 ## 💡Cómo usarlo
 Es un aprendizaje modular y se recomienda usar en un uso de estudio primitivo para la adaptación de nombres, seguido de las nacionaliddades y profesiones para terminar con una base de vocabulario básico para poder aplicarlo a estructuras gramaticales para la construcción de oraciones completas.

@@ -7,6 +7,9 @@ Este recurso consiste en un cuestionario interactivo compuesto de 10 preguntas d
 ## 📊Nivel 
 A1
 
+## Tiempo estimado
+60 minutos
+
 ## 🎯Objetivos
 
 1.💡**Reconocer** todos los elementos básicos visto con anterioridad.
@@ -29,6 +32,8 @@ A1
 
 3.💬**Situaciones comunicativas**
 
+## Licencia
+CC BY-NC-SA 4.0
 
 ## 💡Cómo usarlo
 Está diseñado para realizarse de forma progresvia y dinámica. Se recomienda resolverlo siguiendo el orden propuesto. Las actividades permiten reforzar el aprendizaje mediante práctica interactiva y autoevaluación.

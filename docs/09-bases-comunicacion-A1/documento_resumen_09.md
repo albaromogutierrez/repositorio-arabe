@@ -6,6 +6,9 @@ Este recurso se basa en un contenido en el que se incluye un archivo proporciona
 ## 📊Nivel 
 A1
 
+## Tiempo estimado
+35 minutos
+
 ## 🎯Objetivos
 
 1.💡**Aprender** expresiones básicas de la comunicación árabe.
@@ -31,7 +34,8 @@ A1
 5.**🤲 Lenguaje corporal y gestos**
 6.**🔤 Sistema de raíces trilíteras**
 
-
+## Licencia
+CC BY-NC-SA 4.0
 
 ## 💡Cómo usarlo
 Está diseñado para practicar las presentaciones personales, estudiar las preguntas y estructuras negativas, memorizar el vocabulario relacionado con la casa y el clima, observar ejemplos de gestos y lenguaje corporal y familiarizarse con el sistema de raíces trilíteras para ampliar vocabulario. 
