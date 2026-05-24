@@ -1,10 +1,13 @@
-# Árabe estándar moderno A1-A2 para estudiantes hispanohablantes
+[Portada](imagen/portada.png)
 
-## Materiales digitales para la comunicación básica e intercultural
+
+# 🌍 Árabe estándar moderno A1-A2 para estudiantes hispanohablantes
+
+## 📚 Materiales digitales para la comunicación básica e intercultural
 
 ---
 
-# 1. Presentación del curso
+# 1. 📖 Presentación del curso
 
 ## 1.1 Introducción general
 Este curso ha sido diseñado para introducir al alumnado hispanohablante en el aprendizaje del árabe estándar moderno mediante materiales educativos digitales interactivos. La propuesta combina contenidos lingüísticos, culturales y comunicativos con recursos multimedia y actividades inmersivas.
@@ -20,7 +23,7 @@ El aprendizaje se contextualiza mediante situaciones reales, contenidos cultural
 
 ---
 
-# 2. Información general
+# 2. ℹ️ Información general
 
 | Aspecto | Descripción |
 |---|---|
@@ -34,7 +37,7 @@ El aprendizaje se contextualiza mediante situaciones reales, contenidos cultural
 
 ---
 
-# 3. Objetivos generales del curso
+# 3. 🎯 Objetivos generales del curso
 
 Al finalizar el curso, el alumnado será capaz de:
 
@@ -51,7 +54,7 @@ Al finalizar el curso, el alumnado será capaz de:
 
 ---
 
-# 4. Destinatarios del curso
+# 4. 👥 Destinatarios del curso
 
 Este curso está dirigido principalmente a:
 
@@ -62,7 +65,7 @@ Este curso está dirigido principalmente a:
 
 ---
 
-# 5. Conocimientos previos recomendados
+# 5. 📋 Conocimientos previos recomendados
 
 No se requieren conocimientos previos avanzados de árabe.
 
@@ -75,7 +78,7 @@ Se recomienda:
 
 ---
 
-# 6. Competencias que desarrolla el curso
+# 6. 🧠 Competencias que desarrolla el curso
 
 ## 6.1 Competencias generales
 
@@ -96,27 +99,15 @@ Se recomienda:
 
 ---
 
-# 7. Metodología didáctica
+# 7. 🛠️ Metodología didáctica
 
-El curso utiliza una metodología activa, participativa e inmersiva basada en:
+El curso utiliza una metodología activa, participativa e inmersiva basada en aprendizaje contextualizado, simulación narrativa, interacción multimedia, exploración autónoma, actividades prácticas y recursos digitales interactivos.
 
-- aprendizaje contextualizado,
-- simulación narrativa,
-- interacción multimedia,
-- exploración autónoma,
-- actividades prácticas,
-- y recursos digitales interactivos.
-
-Se fomenta especialmente:
-
-- la participación activa,
-- la toma de decisiones,
-- la resolución de situaciones reales,
-- y el aprendizaje significativo.
+Se fomenta especialmente la participación activa, la toma de decisiones, la resolución de situaciones reales y el aprendizaje significativo.
 
 ---
 
-# 8. Contenido del curso
+# 8. 📂 Contenido del curso
 
 El curso está compuesto por 10 materiales educativos digitales organizados de forma progresiva:
 
@@ -133,30 +124,15 @@ El curso está compuesto por 10 materiales educativos digitales organizados de f
 
 ---
 
-# 9. Recursos y materiales didácticos
+# 9. 🖥️ Recursos y materiales didácticos
 
-El curso incorpora:
-
-- recursos HTML interactivos,
-- simulaciones narrativas,
-- actividades multimedia,
-- imágenes y elementos visuales,
-- audio y diálogos,
-- escenarios interactivos,
-- y materiales culturales contextualizados.
+El curso incorpora recursos HTML interactivos, simulaciones narrativas, actividades multimedia, imágenes y elementos visuales, audio y diálogos, escenarios interactivos y materiales culturales contextualizados.
 
 ---
 
-# 10. Evaluación del aprendizaje
+# 10. 📝 Evaluación del aprendizaje
 
-La evaluación se basa en:
-
-- participación en actividades,
-- resolución de situaciones interactivas,
-- comprensión de contenidos culturales,
-- actividades prácticas,
-- autoevaluaciones,
-- y proyecto final integrador.
+La evaluación se basa en participación en actividades, resolución de situaciones interactivas, comprensión de contenidos culturales, actividades prácticas, autoevaluaciones y proyecto final integrador.
 
 ## Tipos de evaluación
 
@@ -167,51 +143,34 @@ La evaluación se basa en:
 
 ---
 
-# 11. Temporalización orientativa
+# 11. ⏰ Temporalización orientativa
 
 La duración total estimada del curso es de:
 
-# 300 horas
+**300 horas**
 
 La distribución temporal podrá adaptarse en función del ritmo de aprendizaje, el contexto educativo y las necesidades del alumnado.
 
 ---
 
-# 12. Requisitos técnicos
+# 12. ⚙️ Requisitos técnicos
 
-Para el correcto funcionamiento del curso se recomienda:
-
-- Ordenador o tablet.
-- Navegador web actualizado.
-- Conexión a internet para recursos online.
-- Auriculares o altavoces para contenidos multimedia.
-- Resolución mínima recomendada de pantalla: 1280x720.
+Para el correcto funcionamiento del curso se recomienda ordenador o tablet, navegador web actualizado, conexión a internet, auriculares o altavoces para contenidos multimedia y una resolución mínima de pantalla de 1280x720.
 
 ---
 
-# 13. Accesibilidad e inclusión
+# 13. ♿ Accesibilidad e inclusión
 
-El curso busca favorecer una experiencia accesible mediante:
-
-- navegación intuitiva,
-- diseño visual organizado,
-- recursos multimedia contextualizados,
-- aprendizaje flexible,
-- y adaptación a distintos ritmos de aprendizaje.
+El curso busca favorecer una experiencia accesible mediante navegación intuitiva, diseño visual organizado, recursos multimedia contextualizados, aprendizaje flexible y adaptación a distintos ritmos de aprendizaje.
 
 ---
 
-# 14. Certificación y resultados esperados
+# 14. 🏆 Certificación y resultados esperados
 
-Al finalizar el curso, el alumnado habrá desarrollado:
-
-- competencias básicas de comunicación en árabe estándar moderno,
-- comprensión sociocultural del mundo árabe,
-- habilidades comunicativas contextualizadas,
-- y capacidad de interacción en situaciones sociales reales.
+Al finalizar el curso, el alumnado habrá desarrollado competencias básicas de comunicación en árabe estándar moderno, comprensión sociocultural del mundo árabe, habilidades comunicativas contextualizadas y capacidad de interacción en situaciones sociales reales.
 
 ---
 
-# 15. Conclusión general
+# 15. ✅ Conclusión general
 
 Este curso integra aprendizaje lingüístico, comunicación intercultural y recursos digitales interactivos mediante una metodología inmersiva centrada en el estudiante. La combinación de contenidos teóricos, simulaciones narrativas y actividades prácticas permite desarrollar competencias comunicativas y culturales de forma significativa, dinámica y motivadora.
