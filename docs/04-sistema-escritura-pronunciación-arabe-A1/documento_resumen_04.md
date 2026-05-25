@@ -50,7 +50,6 @@ CC BY-NC-SA 4.0
 Es un recurso que va desde un nivel más simple de A1 a uno más avanzado de A2. Se recomienda para empezar por el sistema de escriturra y números antes de avanzar hacia estructuras gramaticales y situaciones prácticas. Las imágenes y ejemplos favorecen el refuerzo del aprendizaje contextual y la comprensión básica. 
 
 
-<a href="./situaciones_practicas/index.html" target="_blank">Ver presentación completa</a>
 
 <iframe
   src="./situaciones_practicas/index.html"
