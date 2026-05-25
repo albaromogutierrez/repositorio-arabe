@@ -51,4 +51,4 @@ Es un recurso que va desde un nivel más simple de A1 a uno más avanzado de A2.
 
 
 
-[Enlace al reveal](https://albaromogutierrez.github.io/repositorio-arabe/04-sistema-escritura-pronunciacion-arabe-A1/situaciones_practicas/index.html)
+[Enlace al reveal](https://albaromogutierrez.github.io/repositorio-arabe/04-sistema-escritura-pronunciacion-arabe-A1/situaciones_practicas/index.html ':target=_blank')
