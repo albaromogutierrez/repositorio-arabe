@@ -174,3 +174,6 @@ Al finalizar el curso, el alumnado habrá desarrollado competencias básicas de 
 # 15. ✅ Conclusión general
 
 Este curso integra aprendizaje lingüístico, comunicación intercultural y recursos digitales interactivos mediante una metodología inmersiva centrada en el estudiante. La combinación de contenidos teóricos, simulaciones narrativas y actividades prácticas permite desarrollar competencias comunicativas y culturales de forma significativa, dinámica y motivadora.
+
+
+[Enlace a la presentación](https://albaromogutierrez.github.io/repositorio-arabe/presentacion/)
